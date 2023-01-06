@@ -14,3 +14,4 @@ def minOperations(n):
             n /= minOpe
         minOpe += 1
     return numOpe
+    
