@@ -1,1 +1,0 @@
-task of 0x00-Lockboxex project
